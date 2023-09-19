@@ -26,8 +26,9 @@ body{
 }
 .cabecalho__menu_caracter{
     font-family: var(--fonte-primaria);
-    font-size: 24px;
+    font-size: 36px;
     color: var(--cor-terciaria);
+    
     text-decoration: none;
 }
 img {
